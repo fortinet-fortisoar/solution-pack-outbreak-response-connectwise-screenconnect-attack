@@ -11,7 +11,7 @@ Threat actors including ransomware gangs are seen exploiting newly discovered cr
 
  The **Outbreak Response - ConnectWise ScreenConnect Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/1.0.0/README.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*, *QRadar*, *Splunk*, and *Azure Log Analytics*.
 
- The [FortiGuard Outbreak Page](https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8) contains information about the outbreak alert **Outbreak Response - ConnectWise ScreenConnect Attack**. 
+ The [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/connectwise-screenconnect-attack) contains information about the outbreak alert **Outbreak Response - ConnectWise ScreenConnect Attack**. 
 
 ## Background: 
 
